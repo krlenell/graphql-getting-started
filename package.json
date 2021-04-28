@@ -1,0 +1,23 @@
+{
+  "name": "graphql-getting-started",
+  "version": "1.0.0",
+  "description": "The GraphQL Getting Started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krlenell/graphql-getting-started.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krlenell/graphql-getting-started/issues"
+  },
+  "homepage": "https://github.com/krlenell/graphql-getting-started#readme",
+  "dependencies": {
+    "graphql": "^15.5.0"
+  }
+}
